@@ -1,12 +1,12 @@
 # Password Generator
 
--- ADD SCREENSHOT HERE --
+![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Capture.png)
 
 ## Description
 
 when prompted, the website will generate a password between 8 and 128 characters using lowercase letters, uppercase letters, numbers and special characters based on user imput.
 
--- ADD LINK HERE --
+https://spyromancy.github.io/password-generator/
 
 ## Contributing
 
